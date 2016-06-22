@@ -1,5 +1,0 @@
-C:\Users\ahzf\Desktop\Coding\OpenChargingCloud\OpenChargingCloud\libs\WWCP_Berlin\WWCP_Berlin\bin\Debug\WWCP_Berlin.dll
-C:\Users\ahzf\Desktop\Coding\OpenChargingCloud\OpenChargingCloud\libs\WWCP_Berlin\WWCP_Berlin\bin\Debug\WWCP_Berlin.pdb
-C:\Users\ahzf\Desktop\Coding\OpenChargingCloud\OpenChargingCloud\libs\WWCP_Berlin\WWCP_Berlin\obj\Debug\WWCP_Berlin.csprojResolveAssemblyReference.cache
-C:\Users\ahzf\Desktop\Coding\OpenChargingCloud\OpenChargingCloud\libs\WWCP_Berlin\WWCP_Berlin\obj\Debug\WWCP_Berlin.dll
-C:\Users\ahzf\Desktop\Coding\OpenChargingCloud\OpenChargingCloud\libs\WWCP_Berlin\WWCP_Berlin\obj\Debug\WWCP_Berlin.pdb
