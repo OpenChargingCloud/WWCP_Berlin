@@ -6,6 +6,8 @@ using Newtonsoft.Json.Linq;
 namespace WWCP_Berlin
 {
 
+    // https://services.mobilitaetsdienste.de/viz/production/wms/2/wms_list/?lang=de&CATEGORY=fuelstation&BBOX=13.30280660766607,52.48432862608622,13.51532339233404,52.58936825790365
+
     public static class BerlinStations
     {
 
