@@ -1,0 +1,1616 @@
+{
+  "type": "FeatureCollection",
+  "properties": {},
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Vattenfall_id_015036",
+        "Operator": "Vattenfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44102,
+          52.53084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Vattenfall_id_015035",
+        "Operator": "Vattenfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4675685,
+          52.5481579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Vattenfall_id_015034",
+        "Operator": "Vattenfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4290864,
+          52.5109368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Vattenfall_id_015033",
+        "Operator": "Vattenfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4334,
+          52.55028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Vattenfall_id_015029",
+        "Operator": "Vattenfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4959,
+          52.53497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Vattenfall_id_015028",
+        "Operator": "Vattenfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32836,
+          52.50716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Vattenfall_id_015026",
+        "Operator": "Vattenfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.513248,
+          52.5334538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Vattenfall_id_015024",
+        "Operator": "Vattenfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33897,
+          52.50293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Vattenfall_id_015016",
+        "Operator": "Vattenfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3775681,
+          52.5100476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Vattenfall_id_015015",
+        "Operator": "Vattenfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38639,
+          52.51474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Vattenfall_id_015019",
+        "Operator": "Vattenfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38276,
+          52.53113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Vattenfall_id_EVB-P1407242",
+        "Operator": "Vattenfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3329146,
+          52.4855018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Vattenfall_id_T1",
+        "Operator": "Vattenfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37133,
+          52.5455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Vattenfall_id_Demo2",
+        "Operator": "Vattenfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3283477,
+          52.5069504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Vattenfall_id_015042",
+        "Operator": "Vattenfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3657988,
+          52.5724011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Vattenfall_id_015041",
+        "Operator": "Vattenfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3215,
+          52.51373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Vattenfall_id_015039",
+        "Operator": "Vattenfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.413223,
+          52.523461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Vattenfall_id_015037",
+        "Operator": "Vattenfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.45727,
+          52.48625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Vattenfall_id_015010",
+        "Operator": "Vattenfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3718,
+          52.52799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Vattenfall_id_015014",
+        "Operator": "Vattenfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32143,
+          52.52119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Vattenfall_id_015013",
+        "Operator": "Vattenfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3897369,
+          52.5108049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Vattenfall_id_015012",
+        "Operator": "Vattenfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3408006,
+          52.5045517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Vattenfall_id_015007",
+        "Operator": "Vattenfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32573,
+          52.50295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Vattenfall_id_015005",
+        "Operator": "Vattenfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.47555,
+          52.51377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Vattenfall_id_XT-Labor",
+        "Operator": "Vattenfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3682477,
+          52.503995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Vattenfall_id_015003",
+        "Operator": "Vattenfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4135234,
+          52.5387398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Vattenfall_id_015002",
+        "Operator": "Vattenfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38754,
+          52.54952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Vattenfall_id_015001",
+        "Operator": "Vattenfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.452201,
+          52.494853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000107",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.466975,
+          52.507268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000109",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.313239,
+          52.502757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000108",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.502235,
+          52.498223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000102",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.360266,
+          52.494506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000105",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.343806,
+          52.488831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000066",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.437175,
+          52.500491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000068",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.398243,
+          52.4948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000101",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.403944,
+          52.520978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000222",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.407904,
+          52.50041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000062",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.380887,
+          52.504762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000061",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.405779,
+          52.56623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000060",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.455833,
+          52.548972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000114",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.345728,
+          52.501532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000077",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.349617,
+          52.500134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000233",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.394909,
+          52.499822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000079",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.329894,
+          52.510247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000078",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.324219,
+          52.497883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000111",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.378211,
+          52.510907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000072",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.414964,
+          52.5337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000075",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.442525,
+          52.533827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000074",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.498685,
+          52.544716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000070",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4779,
+          52.501809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000128",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.394098,
+          52.485901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000125",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.394584,
+          52.506311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000124",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.436405,
+          52.492326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000127",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.309893,
+          52.510341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000126",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.432585,
+          52.517177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000088",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.349851,
+          52.494823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000120",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.342238,
+          52.499237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000123",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.330154,
+          52.493241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000122",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.304447,
+          52.517207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000089",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.480103,
+          52.523041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000083",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.409668,
+          52.50427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000086",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.425677,
+          52.53194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000082",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.359963,
+          52.48853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000081",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.361049,
+          52.491234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000019",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.432597,
+          52.502519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000136",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.388703,
+          52.497232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000017",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.302828,
+          52.487809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000016",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.408519,
+          52.553752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000137",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.309838,
+          52.513972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000099",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.359538,
+          52.498649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000098",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.361404,
+          52.485471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000013",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.474964,
+          52.511975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000095",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.354516,
+          52.487371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000094",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.381119,
+          52.489843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000096",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30371,
+          52.503442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000090",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.424433,
+          52.489938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000093",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.407274,
+          52.488685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000029",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.305567,
+          52.501687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000026",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.449568,
+          52.50789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000147",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31408,
+          52.49067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000146",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.434841,
+          52.521066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000025",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.413783,
+          52.552103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000027",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.308887,
+          52.495371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000021",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42939,
+          52.498081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000142",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39489,
+          52.49985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000024",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.428995,
+          52.525626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000020",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.413538,
+          52.493476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000037",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.423077,
+          52.494063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000036",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.323631,
+          52.494521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000039",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.392945,
+          52.489075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000038",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.383722,
+          52.495127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000154",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.349555,
+          52.488368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000275",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.376732,
+          52.511446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000274",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.376732,
+          52.511446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000153",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.337844,
+          52.485822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000156",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.419889,
+          52.490197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000034",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.317669,
+          52.505876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000150",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.463083,
+          52.514612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000271",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.329722,
+          52.563734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000152",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.415578,
+          52.513388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000273",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.376732,
+          52.511446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000151",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.431859,
+          52.535618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000030",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.429248,
+          52.55057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000048",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.433537,
+          52.485832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000047",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.424988,
+          52.546751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000049",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.437725,
+          52.520102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000044",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.425986,
+          52.567806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000043",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.407592,
+          52.500008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000040",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.450787,
+          52.515183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000059",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.412595,
+          52.558692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000055",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.392549,
+          52.491583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000054",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4389605,
+          52.5420852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000051",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.425589,
+          52.485678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000050",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.419909,
+          52.498568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "Allego_id_DEALLEGO000052",
+        "Operator": "Allego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.448454,
+          52.524128
+        ]
+      }
+    }
+  ]
+}
