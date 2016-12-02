@@ -1,0 +1,1037 @@
+{"list": [
+  {
+    "pointId": "Vattenfall_id_015036",
+    "operatorId": "Vattenfall",
+    "elementId": "015036",
+    "name": "TOTAL-Tankstelle",
+    "x": 13.44102,
+    "y": 52.53084,
+    "catId": "7a2b52f7"
+  },
+  {
+    "pointId": "Vattenfall_id_015035",
+    "operatorId": "Vattenfall",
+    "elementId": "015035",
+    "name": "TOTAL-Tankstelle",
+    "x": 13.4675685,
+    "y": 52.5481579,
+    "catId": "7a2b52f7"
+  },
+  {
+    "pointId": "Vattenfall_id_015034",
+    "operatorId": "Vattenfall",
+    "elementId": "015034",
+    "name": "TOTAL-Tankstelle",
+    "x": 13.4290864,
+    "y": 52.5109368,
+    "catId": "7a2b52f7"
+  },
+  {
+    "pointId": "Vattenfall_id_015033",
+    "operatorId": "Vattenfall",
+    "elementId": "015033",
+    "name": "REWE Parkplatz",
+    "x": 13.4334,
+    "y": 52.55028,
+    "catId": "7a2b52f7"
+  },
+  {
+    "pointId": "Vattenfall_id_015029",
+    "operatorId": "Vattenfall",
+    "elementId": "015029",
+    "name": "ECE Allee-Center",
+    "x": 13.4959,
+    "y": 52.53497,
+    "catId": "7a2b52f7"
+  },
+  {
+    "pointId": "Vattenfall_id_015028",
+    "operatorId": "Vattenfall",
+    "elementId": "015028",
+    "name": "Vattenfall",
+    "x": 13.32836,
+    "y": 52.50716,
+    "catId": "7a2b52f7"
+  },
+  {
+    "pointId": "Vattenfall_id_015026",
+    "operatorId": "Vattenfall",
+    "elementId": "015026",
+    "name": "IKEA Parkplatz",
+    "x": 13.513248,
+    "y": 52.5334538,
+    "catId": "7a2b52f7"
+  },
+  {
+    "pointId": "Vattenfall_id_015024",
+    "operatorId": "Vattenfall",
+    "elementId": "015024",
+    "name": "Vattenfall",
+    "x": 13.33897,
+    "y": 52.50293,
+    "catId": "7a2b52f7"
+  },
+  {
+    "pointId": "Vattenfall_id_015016",
+    "operatorId": "Vattenfall",
+    "elementId": "015016",
+    "name": "Vattenfall",
+    "x": 13.3775681,
+    "y": 52.5100476,
+    "catId": "7a2b52f7"
+  },
+  {
+    "pointId": "Vattenfall_id_015015",
+    "operatorId": "Vattenfall",
+    "elementId": "015015",
+    "name": "Conti",
+    "x": 13.38639,
+    "y": 52.51474,
+    "catId": "7a2b52f7"
+  },
+  {
+    "pointId": "Vattenfall_id_015019",
+    "operatorId": "Vattenfall",
+    "elementId": "015019",
+    "name": "Vattenfall",
+    "x": 13.38276,
+    "y": 52.53113,
+    "catId": "7a2b52f7"
+  },
+  {
+    "pointId": "Vattenfall_id_EVB-P1407242",
+    "operatorId": "Vattenfall",
+    "elementId": "EVB-P1407242",
+    "name": "Vattenfall",
+    "x": 13.3329146,
+    "y": 52.4855018,
+    "catId": "7a2b52f7"
+  },
+  {
+    "pointId": "Vattenfall_id_T1",
+    "operatorId": "Vattenfall",
+    "elementId": "T1",
+    "name": "Vattenfall",
+    "x": 13.37133,
+    "y": 52.5455,
+    "catId": "7a2b52f7"
+  },
+  {
+    "pointId": "Vattenfall_id_Demo2",
+    "operatorId": "Vattenfall",
+    "elementId": "Demo2",
+    "name": "Berlin Partner für Wirtschaft und Technologie GmbH",
+    "x": 13.3283477,
+    "y": 52.5069504,
+    "catId": "7a2b52f7"
+  },
+  {
+    "pointId": "Vattenfall_id_015042",
+    "operatorId": "Vattenfall",
+    "elementId": "015042",
+    "name": "REWE",
+    "x": 13.3657988,
+    "y": 52.5724011,
+    "catId": "7a2b52f7"
+  },
+  {
+    "pointId": "Vattenfall_id_015041",
+    "operatorId": "Vattenfall",
+    "elementId": "015041",
+    "name": "Gravis",
+    "x": 13.3215,
+    "y": 52.51373,
+    "catId": "7a2b52f7"
+  },
+  {
+    "pointId": "Vattenfall_id_015039",
+    "operatorId": "Vattenfall",
+    "elementId": "015039",
+    "name": "Q-Park",
+    "x": 13.413223,
+    "y": 52.523461,
+    "catId": "7a2b52f7"
+  },
+  {
+    "pointId": "Vattenfall_id_015037",
+    "operatorId": "Vattenfall",
+    "elementId": "015037",
+    "name": "REWE Parkplatz",
+    "x": 13.45727,
+    "y": 52.48625,
+    "catId": "7a2b52f7"
+  },
+  {
+    "pointId": "Vattenfall_id_015010",
+    "operatorId": "Vattenfall",
+    "elementId": "015010",
+    "name": "Conti",
+    "x": 13.3718,
+    "y": 52.52799,
+    "catId": "7a2b52f7"
+  },
+  {
+    "pointId": "Vattenfall_id_015014",
+    "operatorId": "Vattenfall",
+    "elementId": "015014",
+    "name": "links",
+    "x": 13.32143,
+    "y": 52.52119,
+    "catId": "7a2b52f7"
+  },
+  {
+    "pointId": "Vattenfall_id_015013",
+    "operatorId": "Vattenfall",
+    "elementId": "015013",
+    "name": "vor Mini",
+    "x": 13.3897369,
+    "y": 52.5108049,
+    "catId": "7a2b52f7"
+  },
+  {
+    "pointId": "Vattenfall_id_015012",
+    "operatorId": "Vattenfall",
+    "elementId": "015012",
+    "name": "Europa-Center",
+    "x": 13.3408006,
+    "y": 52.5045517,
+    "catId": "7a2b52f7"
+  },
+  {
+    "pointId": "Vattenfall_id_015007",
+    "operatorId": "Vattenfall",
+    "elementId": "015007",
+    "name": "Vattenfall",
+    "x": 13.32573,
+    "y": 52.50295,
+    "catId": "7a2b52f7"
+  },
+  {
+    "pointId": "Vattenfall_id_015005",
+    "operatorId": "Vattenfall",
+    "elementId": "015005",
+    "name": "RingCenter",
+    "x": 13.47555,
+    "y": 52.51377,
+    "catId": "7a2b52f7"
+  },
+  {
+    "pointId": "Vattenfall_id_XT-Labor",
+    "operatorId": "Vattenfall",
+    "elementId": "XT-Labor",
+    "name": "Netzleitstelle",
+    "x": 13.3682477,
+    "y": 52.503995,
+    "catId": "7a2b52f7"
+  },
+  {
+    "pointId": "Vattenfall_id_015003",
+    "operatorId": "Vattenfall",
+    "elementId": "015003",
+    "name": "Conti",
+    "x": 13.4135234,
+    "y": 52.5387398,
+    "catId": "7a2b52f7"
+  },
+  {
+    "pointId": "Vattenfall_id_015002",
+    "operatorId": "Vattenfall",
+    "elementId": "015002",
+    "name": "Gesundbrunnen-Center",
+    "x": 13.38754,
+    "y": 52.54952,
+    "catId": "7a2b52f7"
+  },
+  {
+    "pointId": "Vattenfall_id_015001",
+    "operatorId": "Vattenfall",
+    "elementId": "015001",
+    "name": "VE Hauptverwaltung",
+    "x": 13.452201,
+    "y": 52.494853,
+    "catId": "7a2b52f7"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000107",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000107",
+    "name": "Allego",
+    "x": 13.466975,
+    "y": 52.507268,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000109",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000109",
+    "name": "Allego",
+    "x": 13.313239,
+    "y": 52.502757,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000108",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000108",
+    "name": "Allego",
+    "x": 13.502235,
+    "y": 52.498223,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000102",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000102",
+    "name": "Allego",
+    "x": 13.360266,
+    "y": 52.494506,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000105",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000105",
+    "name": "Allego",
+    "x": 13.343806,
+    "y": 52.488831,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000066",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000066",
+    "name": "Allego",
+    "x": 13.437175,
+    "y": 52.500491,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000068",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000068",
+    "name": "Allego",
+    "x": 13.398243,
+    "y": 52.4948,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000101",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000101",
+    "name": "Allego",
+    "x": 13.403944,
+    "y": 52.520978,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000222",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000222",
+    "name": "Allego",
+    "x": 13.407904,
+    "y": 52.50041,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000062",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000062",
+    "name": "Allego",
+    "x": 13.380887,
+    "y": 52.504762,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000061",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000061",
+    "name": "Allego",
+    "x": 13.405779,
+    "y": 52.56623,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000060",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000060",
+    "name": "Allego",
+    "x": 13.455833,
+    "y": 52.548972,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000114",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000114",
+    "name": "Allego",
+    "x": 13.345728,
+    "y": 52.501532,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000077",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000077",
+    "name": "Allego",
+    "x": 13.349617,
+    "y": 52.500134,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000233",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000233",
+    "name": "Allego",
+    "x": 13.394909,
+    "y": 52.499822,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000079",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000079",
+    "name": "Allego",
+    "x": 13.329894,
+    "y": 52.510247,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000078",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000078",
+    "name": "Allego",
+    "x": 13.324219,
+    "y": 52.497883,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000111",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000111",
+    "name": "Allego",
+    "x": 13.378211,
+    "y": 52.510907,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000072",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000072",
+    "name": "Allego",
+    "x": 13.414964,
+    "y": 52.5337,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000075",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000075",
+    "name": "Allego",
+    "x": 13.442525,
+    "y": 52.533827,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000074",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000074",
+    "name": "Allego",
+    "x": 13.498685,
+    "y": 52.544716,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000070",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000070",
+    "name": "Allego",
+    "x": 13.4779,
+    "y": 52.501809,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000128",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000128",
+    "name": "Allego",
+    "x": 13.394098,
+    "y": 52.485901,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000125",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000125",
+    "name": "Allego",
+    "x": 13.394584,
+    "y": 52.506311,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000124",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000124",
+    "name": "Allego",
+    "x": 13.436405,
+    "y": 52.492326,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000127",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000127",
+    "name": "Allego",
+    "x": 13.309893,
+    "y": 52.510341,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000126",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000126",
+    "name": "Allego",
+    "x": 13.432585,
+    "y": 52.517177,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000088",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000088",
+    "name": "Allego",
+    "x": 13.349851,
+    "y": 52.494823,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000120",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000120",
+    "name": "Allego",
+    "x": 13.342238,
+    "y": 52.499237,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000123",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000123",
+    "name": "Allego",
+    "x": 13.330154,
+    "y": 52.493241,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000122",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000122",
+    "name": "Allego",
+    "x": 13.304447,
+    "y": 52.517207,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000089",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000089",
+    "name": "Allego",
+    "x": 13.480103,
+    "y": 52.523041,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000083",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000083",
+    "name": "Allego",
+    "x": 13.409668,
+    "y": 52.50427,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000086",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000086",
+    "name": "Allego",
+    "x": 13.425677,
+    "y": 52.53194,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000082",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000082",
+    "name": "Allego",
+    "x": 13.359963,
+    "y": 52.48853,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000081",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000081",
+    "name": "Allego",
+    "x": 13.361049,
+    "y": 52.491234,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000019",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000019",
+    "name": "Allego",
+    "x": 13.432597,
+    "y": 52.502519,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000136",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000136",
+    "name": "Allego",
+    "x": 13.388703,
+    "y": 52.497232,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000017",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000017",
+    "name": "Allego",
+    "x": 13.302828,
+    "y": 52.487809,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000016",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000016",
+    "name": "Allego",
+    "x": 13.408519,
+    "y": 52.553752,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000137",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000137",
+    "name": "Allego",
+    "x": 13.309838,
+    "y": 52.513972,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000099",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000099",
+    "name": "Allego",
+    "x": 13.359538,
+    "y": 52.498649,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000098",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000098",
+    "name": "Allego",
+    "x": 13.361404,
+    "y": 52.485471,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000013",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000013",
+    "name": "Allego",
+    "x": 13.474964,
+    "y": 52.511975,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000095",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000095",
+    "name": "Allego",
+    "x": 13.354516,
+    "y": 52.487371,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000094",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000094",
+    "name": "Allego",
+    "x": 13.381119,
+    "y": 52.489843,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000096",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000096",
+    "name": "Allego",
+    "x": 13.30371,
+    "y": 52.503442,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000090",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000090",
+    "name": "Allego",
+    "x": 13.424433,
+    "y": 52.489938,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000093",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000093",
+    "name": "Allego",
+    "x": 13.407274,
+    "y": 52.488685,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000029",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000029",
+    "name": "Allego",
+    "x": 13.305567,
+    "y": 52.501687,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000026",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000026",
+    "name": "Allego",
+    "x": 13.449568,
+    "y": 52.50789,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000147",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000147",
+    "name": "Allego",
+    "x": 13.31408,
+    "y": 52.49067,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000146",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000146",
+    "name": "Allego",
+    "x": 13.434841,
+    "y": 52.521066,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000025",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000025",
+    "name": "Allego",
+    "x": 13.413783,
+    "y": 52.552103,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000027",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000027",
+    "name": "Allego",
+    "x": 13.308887,
+    "y": 52.495371,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000021",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000021",
+    "name": "Allego",
+    "x": 13.42939,
+    "y": 52.498081,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000142",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000142",
+    "name": "Allego",
+    "x": 13.39489,
+    "y": 52.49985,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000024",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000024",
+    "name": "Allego",
+    "x": 13.428995,
+    "y": 52.525626,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000020",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000020",
+    "name": "Allego",
+    "x": 13.413538,
+    "y": 52.493476,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000037",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000037",
+    "name": "Allego",
+    "x": 13.423077,
+    "y": 52.494063,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000036",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000036",
+    "name": "Allego",
+    "x": 13.323631,
+    "y": 52.494521,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000039",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000039",
+    "name": "Allego",
+    "x": 13.392945,
+    "y": 52.489075,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000038",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000038",
+    "name": "Allego",
+    "x": 13.383722,
+    "y": 52.495127,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000154",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000154",
+    "name": "Allego",
+    "x": 13.349555,
+    "y": 52.488368,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000275",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000275",
+    "name": "TG-Platz Nr. 14",
+    "x": 13.376732,
+    "y": 52.511446,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000274",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000274",
+    "name": "TG-Platz Nr. 13",
+    "x": 13.376732,
+    "y": 52.511446,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000153",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000153",
+    "name": "Allego",
+    "x": 13.337844,
+    "y": 52.485822,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000156",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000156",
+    "name": "Allego",
+    "x": 13.419889,
+    "y": 52.490197,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000034",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000034",
+    "name": "Allego",
+    "x": 13.317669,
+    "y": 52.505876,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000150",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000150",
+    "name": "Allego",
+    "x": 13.463083,
+    "y": 52.514612,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000271",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000271",
+    "name": "Lichtmast LM2",
+    "x": 13.329722,
+    "y": 52.563734,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000152",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000152",
+    "name": "Allego",
+    "x": 13.415578,
+    "y": 52.513388,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000273",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000273",
+    "name": "TG-Platz Nr.12",
+    "x": 13.376732,
+    "y": 52.511446,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000151",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000151",
+    "name": "Allego",
+    "x": 13.431859,
+    "y": 52.535618,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000030",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000030",
+    "name": "Allego",
+    "x": 13.429248,
+    "y": 52.55057,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000048",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000048",
+    "name": "Allego",
+    "x": 13.433537,
+    "y": 52.485832,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000047",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000047",
+    "name": "Allego",
+    "x": 13.424988,
+    "y": 52.546751,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000049",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000049",
+    "name": "Allego",
+    "x": 13.437725,
+    "y": 52.520102,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000044",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000044",
+    "name": "Allego",
+    "x": 13.425986,
+    "y": 52.567806,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000043",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000043",
+    "name": "Allego",
+    "x": 13.407592,
+    "y": 52.500008,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000040",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000040",
+    "name": "Allego",
+    "x": 13.450787,
+    "y": 52.515183,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000059",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000059",
+    "name": "Allego",
+    "x": 13.412595,
+    "y": 52.558692,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000055",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000055",
+    "name": "Allego",
+    "x": 13.392549,
+    "y": 52.491583,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000054",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000054",
+    "name": "Allego",
+    "x": 13.4389605,
+    "y": 52.5420852,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000051",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000051",
+    "name": "Allego",
+    "x": 13.425589,
+    "y": 52.485678,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000050",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000050",
+    "name": "Allego",
+    "x": 13.419909,
+    "y": 52.498568,
+    "catId": "88e2c21a"
+  },
+  {
+    "pointId": "Allego_id_DEALLEGO000052",
+    "operatorId": "Allego",
+    "elementId": "DEALLEGO000052",
+    "name": "Allego",
+    "x": 13.448454,
+    "y": 52.524128,
+    "catId": "88e2c21a"
+  }
+]}
